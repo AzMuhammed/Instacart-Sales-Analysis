@@ -11,6 +11,7 @@ information about their sales patterns. Your task is to perform an initial data 
 analysis of some of their data in order to derive insights and suggest strategies for better
 segmentation based on the provided criteria.
 
-Datasets
+Data
+
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
