@@ -1,7 +1,7 @@
 # Instacart-Sales-Analysis
 
 
-This project was conducted using Python for Career Foundry Data Analytics Program.
+This project was conducted using Python and Excel for Career Foundry Data Analytics Program.
 
 # Objective
 
