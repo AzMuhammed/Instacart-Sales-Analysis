@@ -15,3 +15,9 @@ segmentation based on the provided criteria.
 
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
+
+
+# Contact
+
+azumi.smuhammed@gmail.com
+https://www.linkedin.com/in/azumi-muhammed-631678260/
