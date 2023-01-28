@@ -1,4 +1,4 @@
-# Instacart-Sales-Analysis
+# Instacart Basket-Sales-Analysis
 
 
 This project was conducted using Python and Excel for Career Foundry Data Analytics Program.
